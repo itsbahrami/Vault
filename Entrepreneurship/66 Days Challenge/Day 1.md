@@ -1,0 +1,8 @@
+- **Delegation:** 
+	- don't do things that other can do for you!
+	- give them a deadline / timeline
+	- be CLEAR on what you want
+	- show importance of the task
+- Get ideas, consultation, and help from others.
+- Be quick... agile... فس‌فس نکن! 速く！
+- Write ideas, thoughts, and stuff down!
