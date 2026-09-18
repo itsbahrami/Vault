@@ -1,0 +1,2 @@
+- Is your business growing or declining? (==no THIRD== state!)
+- سود خالص‌ت از تورم بیشتر شده؟

@@ -1,0 +1,10 @@
+- Force on user? 逃げるよ！
+- Don't DEFEND
+- Discounts without REASON!
+- Overwhelming user:
+	- Too much info
+	- Too much choices
+	- Before dumping,
+	- Ask a small, WH questions! (not Yes/No)
+	- Then based on that help the user
+- User messages u to convince them to buy from you!

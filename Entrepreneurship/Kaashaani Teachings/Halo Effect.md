@@ -1,0 +1,3 @@
+- the tendency for an impression created in one area to influence opinion in another area
+- brain judges on the FIRST SIGHT!
+- think: what do u SHOW your AUDIENCE on the FIRST SIGHT???
