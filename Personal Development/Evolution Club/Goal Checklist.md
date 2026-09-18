@@ -1,0 +1,16 @@
+- [ ] ==Real==: I can actually do it
+- [ ] ==Realistic Odds==: At least a 50% chance of success
+- [ ] ==Love It==: I genuinely want this
+- [ ] ==My Goal==: Mine, not sb else's
+- [ ] ==Vivid==: Can be clearly described
+- [ ] ==Time-bound==: Has a specific deadline / timeline
+- [ ] ==Challenges==: It stretches me
+- [ ] ==Breakable==: Can be broken into smaller steps
+- [ ] ==Values Aligned==: Matches my values
+- [ ] ==Measurable==: It can be tracked with numbers
+- [ ] ==Controllable==: Mostly under MY control
+- [ ] ==Sacrifice Known==: I know what I'm giving up for this
+- [ ] ==Obstacles Listed==: I know what will try to stop me
+- [ ] ==Counterplan Ready==: I've got a plan to beat ^^^
+- [ ] ==Worse Case OK==: The worst outcome is bearable
+- [ ] ==Strong Why==: I have a strong WHY for this
