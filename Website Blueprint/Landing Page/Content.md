@@ -1,15 +1,3 @@
-## 7. "How much?"
-
-- Price. Or price range. Or "starting at"
-- What's included
-- What's not included
-- Payment method
-
-- ۱،۳۴۰،۰۰۰ت -> چون در مرحله بتا هستم، ۷۸۰،۰۰۰ت (I don't even know the percentage... or whether I should have a round one, or a random one...)
-- روش پرداخت... کارت به کارت.
-- قیمت بتا: ۷۸۰،۰۰۰ تومان: چون تازه شروع کرده‌ام و دارم نمونه‌کار می‌سازم، قیمت واقعی رو نمی‌گیرم. در عوض، بعد از تحویل، اگه دوست داشتی یه نظر صادقانه بدی و اجازه بدی ازش به عنوان نمونه‌کار استفاده می‌کنم.
-
-
 ## 8. "What if I don't like it?"
 
 - The guarantee: money back within 7 days if not useful
