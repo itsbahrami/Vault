@@ -1,28 +1,4 @@
-## 1. "What is this?" (above the fold, 3 seconds)
-
-- What is it?
-- Who is it for?
-- What to do now?
-- عنوان: ...
-	- نقشه ساختمون سایتت رو داری؟
-	- قبل از ساختن سایتت، نقشه‌ش رو داری؟
-- توضیح مختصر: بلوپرینت، مثل نقشه ساختمونه، اما برای وب‌سایتت! اگه سایت نداری یا ازش راضی نیستی، شاید نقشه‌اش خوب نبوده! همین الان بهم پیام بده که کمکت کنم درستش کنی!
-
-## 2. "What do I actually get?"
-
-- The deliverable: a PDF blueprint
-- What's inside it (the 10 sections, summarized — not all 10, just the big ones)
-- Maybe a sample page or a redacted example
-
-- به طور خلاصه: یه پی‌دی‌اف!
-- اما یه پی‌دی‌اف ساده و generic نیست! یه پی‌دی‌اف ۱۰ صفحه‌ای هستش که توش این موارد رو توضیح داده:
-	- چه نوع سایتی نیاز داری
-	- با چه ابزاری ساخته بشه بهتره
-	- به چه صفحاتی نیاز داری
-	- چه ویژگی‌هایی نیاز داری
-	- تخمین هزینه‌ها با جزئیات
-
-## 3. "Is this for me?"
+## 4. "Is this for me?"
 
 - Who it's for: small business owners (teachers, shops, service businesses)
 - Who it's NOT for: big companies, people who already know exactly what they want, people who just want a cheap template
@@ -31,60 +7,24 @@
 - برای صاحبان کسب‌وکارهای کوچیک، که می‌خوان جدی توی اینترنت حضور و فعالیت داشته باشن و بیشتر رشد کنن. اگه آنلاین‌شاپ داری، مدرس هستی، خدماتی ارائه میدی، یا حتی اگه یه متخصص هستی که می‌خوای روی برند شخصی‌ات کار کنی، جای درستی اومدی.
 - به درد صاحبان کسب‌وکارهای بزرگ، کسایی که براشون رشد و حضور توی اینترنت مهم نیست، اون‌هایی که از رقبا عقب افتادن براشون مهم نیست، یا کسایی که همین الان سایت‌شون رو دارن و ازش کاملا راضی هستن...
 
-## 4. "With vs. Without" (before/after)
-
-The emotional peak. Two columns, or stacked (pain first, then relief). Parallel lines. Specific, not vague. Use their words, not yours.
-
-**بدون نقشه (Without):**
-- سایت داری ولی کار نمی‌کنه! به هدفت نمی‌رسونه...
-- پول دادی، فریلنسر هرچی خواست ساخت
-- چند ماه بعد باید از صفر سایتت رو بسازی
-- نمیدونی چرا تماس نمی‌گیرن یا خرید نمی‌کنن
-- نمیدونی هزینه واقعی‌ات چقدره
-- هیچ‌کس پیدات نمیکنه
-- نمیدونی از کجا شروع کنی. یا بدتر — اشتباه شروع میکنی
-- نمی‌دونی دقیقا سایتت چی نیاز داره، چطوری بهترش کنی و ...
-
-**با نقشه (With):**
-- میدونی سایتت دقیقاً چی باید داشته باشه
-- میتونی به هر فریلنسری/طراحی بگی دقیقاً چی بسازه
-- یه بار درست می‌سازی، دیگه بازسازی نداری
-- میدونی مخاطبت از کجا میاد و چطور تبدیلش کنی
-- میدونی هزینه واقعی چقدره، با جزئیات، قبل از خرج کردن
-- سایتت تو رو به هدفت می‌رسونه، میفروشه، متقاعد می‌کنه، و ...
-
-**Rules:**
-- 5–8 lines per side max
-- Parallel structure (each "without" line has a matching "with" line)
-- End on the "with" side — always end with hope
-- Stacked (pain first) hits harder for Iranian small business owners
-- Use real customer language — ask those people you owe what the worst part is
-
 ## 5. "Why you?"
 
 - Why you vs. a freelancer / an agency / "I'll just figure it out myself"
 - What makes your approach different (you're a programmer, you understand the technical side, you focus on the business goal not just design)
 - Maybe a short "about me"
 
-- من یه برنامه‌نویس هستم که ۲ ساله توی بازار کار هستم، قشنگ می‌دونم که چه موقعی یه سایتی رو باید کدنویسی کرد، یا نه، و از چه ابزارهایی استفاده کرد، و اینکه چه کارهای باید انجام داد و نداد... (俺、何言ってるの？)
-
-If you have no credentials yet, be honest: "I built this because I saw small businesses waste money on the wrong site. I'm a developer. I made this to fix that."
+- بی‌طرف هستم: چون خودم قرار نیست سایت رو بسازم، روی نوع خاصی از سایت، تکنولوژی خاص، یا روش خاصی تعصب ندارم... بی‌طرف، بر اساس بودجه، شرایط و نیازهای شما، مناسب‌ترین گزینه رو بهتون میگم
+- فرایند Async هست: پیام میدم، یه دونه یه دونه سوال می‌پرسم، صبر می‌کنم تا جواب بدی، نه زنگ میزنم و نه تقویمت رو اشغال میکنم... داری میری نونوایی؟ به یه سوالم جواب بده... جواب یه سوال رو مطمئن نیستی؟ خب خودم هستم و کمکت میکنم...
+- برنامه‌نویس هستم: ۲ ساله توی بازارکار هستم، دقیقا می‌دونم در چه شرایطی و با چه ابزارهایی یه سایت باید کدنویسی بشه یا کدنویسی نشه، یا اینکه چطوری با بودجه‌های کم سایت میشه راه انداخت، و اینکه چه مشکلاتی سایت‌های معمولی دارن و چطوری میشه یه سایت خاص و با کیفیت داشت...
+- کسب‌وکار داری دیگه؟ این کار رو بسپر به من و کارهای مهم‌تری که فقط خودت میتونی انجام بدی روشون تمرکز کن
 
 ## 6. "How does it work?"
-
-- Step 1: You pay
-- Step 2: I send you questions
-- Step 3: You answer
-- Step 4: I send your blueprint (in X days)
-- Step 5: We have a call if you want
 
 - قدم ۱: توی ایتا بهم پیام میدی، می‌بینم که می‌تونم کمکت کنم یا نه... اگه دیدم می‌تونم، می‌ریم برای قدم بعدی
 - قدم ۲: مبلغ سرمایه‌گذاری رو دریافت میکنم و بعد شروع می‌کنم به سوال پرسیدن، برای هر سوال هر چقدر که خواستین می‌تونین فکر کنین، و خودم هم توش اگه بتونم کمک‌تون می‌کنم
 - قدم ۳: بعد اینکه اطلاعات کافی جمع کردم، یه مقدار تحقیق می‌کنم و بلوپرینت مخصوص خودتون رو براتون آماده می‌کنم
 - قدم ۴: براتون ارسال می‌کنم و اگه لازم بود، تغییراتی اعمال می‌کنم یا توضیح میدم.
 - قدم ۵: توی همون بلوپرینت، قشنگ بهتون گفتم که قدم بعدی‌تون چیه! طبق همون برای ساخت وب‌سایت و رشد کسب‌وکارتون اقدام می‌کنین!
-
-Simple. 4–5 steps max. Visual if possible.
 
 ## 7. "How much?"
 
@@ -97,7 +37,6 @@ Simple. 4–5 steps max. Visual if possible.
 - روش پرداخت... کارت به کارت.
 - قیمت بتا: ۷۸۰،۰۰۰ تومان: چون تازه شروع کرده‌ام و دارم نمونه‌کار می‌سازم، قیمت واقعی رو نمی‌گیرم. در عوض، بعد از تحویل، اگه دوست داشتی یه نظر صادقانه بدی و اجازه بدی ازش به عنوان نمونه‌کار استفاده می‌کنم.
 
-If you hide the price, people assume it's expensive and leave. If you show it, people self-select. Show it.
 
 ## 8. "What if I don't like it?"
 
