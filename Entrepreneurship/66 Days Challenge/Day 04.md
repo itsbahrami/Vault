@@ -1,0 +1,6 @@
+- A COOL decision...
+	- The outcome...
+	- Worth it?
+- Decision types:
+	- REVERSIBLE
+	- IRREVERSIBLE
