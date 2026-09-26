@@ -1,0 +1,5 @@
+- ADs: should have a place ready for people that are coming
+- Mental tranquility
+	- If u let it be... interrupted...
+	- then u ==can't== do the things u could!
+- Pragmatism & Acting more important than having an idea
