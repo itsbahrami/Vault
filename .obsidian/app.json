@@ -1,7 +1,7 @@
 {
   "trashOption": "local",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A5",
     "landscape": false,
     "margin": "0",
