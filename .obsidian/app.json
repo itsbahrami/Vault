@@ -2,7 +2,7 @@
   "trashOption": "local",
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A5",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
