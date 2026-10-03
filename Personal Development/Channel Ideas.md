@@ -1,0 +1,99 @@
+- Impactful books — books that changed how I think, and why they stuck with me.
+- Note-taking from books — how to take notes you'll actually revisit instead of forgetting everything.
+- Disagreeing with a book — books I didn't fully agree with, and what I learned from the disagreement.
+- Fiction's real-life lessons — what novels and stories taught me about people and life.
+- Choosing what to read next — how I decide what to read without wasting time.
+- Non-fiction retention — how to remember what you read in non-fiction.
+- Abandoning bad books — why I stopped forcing myself to finish books I don't enjoy.
+- Book summaries and takeaways — how I summarize a book and extract the useful parts.
+- Reading habits — how I fit reading into a busy life.
+- Learning from reading — how reading itself is a skill you can improve.
+- Vocabulary acquisition without burnout — how to learn words without cramming and quitting.
+- IPA for Persian speakers 🔓 — the International Phonetic Alphabet, and which symbols matter most for Persian speakers.
+- Shadowing technique 🔓 — listening to native audio and repeating it simultaneously to improve rhythm and pronunciation.
+- Anki usage — how to use spaced repetition flashcards without hating the process.
+- Minimal pairs — pairs of words that differ by one sound (ship/sheep) and why they matter for listening.
+- Contextual guessing — how to guess unknown words from context instead of stopping to look them up.
+- Free language tools — the best free apps and websites for language learning.
+- Solo speaking practice — how to practice speaking when you have no partner.
+- Passive vs active knowledge — why you understand but can't speak, and how to fix it.
+- 30-day habit building — how to build a language habit that survives past day four.
+- Talent myth in language learning — why "talent" is overrated and what actually matters.
+- Plateau busting — what to do when you stop improving.
+- Hiragana learning method — how to learn hiragana quickly, even if it took me months.
+- Katakana reading tricks — how to read katakana faster by recognizing patterns.
+- Particles — the 10 basic particles and how to use them.
+- Te-form — a verb form used everywhere, explained simply.
+- Japanese typing 🔓 — how to set up and use an IME to type Japanese on phone and PC.
+- Romaji pitfalls 🔓 — why romaji hides important information and holds you back.
+- Pitch accent 🔓 — why *hashi* can mean three different things depending on pitch.
+- Manga reading with dictionary — how to read manga even without physical copies, using digital tools.
+- Japanese learning apps — my favorite apps for learning Japanese.
+- Shadowing anime — using anime scenes to practice shadowing and listening.
+- Moving past anime-only phase — how to transition from anime to other Japanese content.
+- Kanji fear — why kanji isn't as scary as it looks, and how to approach it.
+- Beginner listening practice — how to practice listening when you're just starting.
+- /θ/ vs /s/ for Persian speakers 🔓 — the "th" sound and why Persian speakers often replace it with "s" or "t".
+- Schwa sound 🔓 — the most common sound in English, and why it matters for pronunciation.
+- Word stress — how stressing the wrong syllable changes meaning or sounds unnatural.
+- Understanding fast songs — why songs are hard to understand, and how to train your ear.
+- Phrasal verbs — the phrasal verbs you actually need in everyday English.
+- Polite email writing — how to write emails that sound natural and polite.
+- Connected speech 🔓 — how words blend together in fast speech (wanna, gonna, didja).
+- YouGlish 🔓 — a website that shows you real examples of any word in videos.
+- Reading IPA 🔓 — how to read the pronunciation symbols in a dictionary.
+- Podcasts for learners — English podcasts that are good for learners.
+- English spelling — why English spelling is messy, and how to survive it.
+- Thinking in English — how to stop translating in your head and start thinking in English.
+- App stack — the three apps I use to get things done.
+- Weekly planning — how I plan my week in 10 minutes.
+- Realistic Pomodoro — how to use the Pomodoro technique without failing.
+- Inbox zero — how to handle email without drowning.
+- Note-taking survival — how to take notes that survive and stay useful.
+- App switching — how to stop switching apps all day and stay focused.
+- Digital minimalism — how to reduce phone use without going extreme.
+- Morning setup — my morning routine and why it works.
+- Habit tracking without guilt — how to track habits without feeling bad.
+- Timeboxing — how to give each task a time slot, even if you hate schedules.
+- Daily productivity tip — the one tip I actually use every day.
+- Why to-do lists fail — why to-do lists don't work, and what to do instead.
+- Clipboard history 🔓 — the built-in feature that remembers everything you copy.
+- Password manager setup 🔓 — how to set up a password manager in 5 minutes.
+- 2FA 🔓 — two-factor authentication, explained simply.
+- Search operators 🔓 — how to use site:, filetype:, quotes, and minus to search better.
+- 3-2-1 backup 🔓 — the backup rule: 3 copies, 2 media, 1 offsite.
+- OCR 🔓 — how to turn images into text you can copy.
+- Markdown 🔓 — a simple way to format text that works everywhere.
+- RSS 🔓 — how to follow websites without social media.
+- Keyboard shortcuts 🔓 — the shortcuts that save you hours on browser and OS.
+- Task automation — how to automate one boring task.
+- Talking to developers (non-dev perspective) 🔓 — how to ask a developer for something and actually get it.
+- Command line basics — why you should learn a little command line, and how.
+- Choosing apps — how to choose apps without wasting time.
+- Idea validation — how to test an idea before building anything.
+- No-code vs code — how to decide between no-code tools and custom code.
+- Website necessity — why you might not need a website yet.
+- Freelance pricing — how to price your freelance work.
+- Launch tools — the tools I'd use to launch a product today.
+- Website blueprint — what to decide before building a website.
+- Pre-building mistakes — mistakes people make before they even start building.
+- Talking to developers (dev perspective) 🔓 — how to teach non-devs to communicate with developers.
+- Website cost differences — what changes between a cheap and an expensive website.
+- Blueprint process — how I create a website blueprint (teaser).
+- Over-engineering — how I learned to stop over-engineering projects.
+- Starting over — the first thing I'd do if I started over.
+- Accelerated learning — how to learn anything faster using the 80/20 rule.
+- Reading a book a month — how to read more without rushing.
+- Handling criticism — how to take criticism without crumbling.
+- Asking for help — how to ask for help without feeling stupid.
+- Explaining complex things — how to explain complicated topics simply.
+- Second brain — how to build a personal knowledge management system.
+- Monolingual dictionary use — how to switch to a monolingual dictionary.
+- Deliberate practice — how to practice with focus and purpose.
+- Information overload — how to deal with too much information.
+- Being a beginner — how to be a beginner without hating it.
+- Syncthing
+- Obsidian
+- `!` & `_` folders
+- GTD
+- Mindwtr
