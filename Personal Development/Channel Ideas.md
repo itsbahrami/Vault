@@ -26,7 +26,7 @@
 - Te-form — a verb form used everywhere, explained simply.
 - Japanese typing 🔓 — how to set up and use an IME to type Japanese on phone and PC.
 - Romaji pitfalls 🔓 — why romaji hides important information and holds you back.
-- Pitch accent 🔓 — why *hashi* can mean three different things depending on pitch.
+- Pitch accent 🔓 — why `hashi` can mean three different things depending on pitch.
 - Manga reading with dictionary — how to read manga even without physical copies, using digital tools.
 - Japanese learning apps — my favorite apps for learning Japanese.
 - Shadowing anime — using anime scenes to practice shadowing and listening.
