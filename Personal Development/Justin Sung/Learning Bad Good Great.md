@@ -1,0 +1,8 @@
+
+| For What                 | Bad                                        | Good                                           | Great                                                                                                       |
+| ------------------------ | ------------------------------------------ | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Understanding            | Re-reading & highlighting                  | Writing short summaries in your own words      | Reconnect & explain reason of importance                                                                    |
+| Perform under pressure   | Mem word for word                          | Test on each part of what u learn              | Test from memory, while applying to real world stuff                                                        |
+| Building Skills          | Copying solutions & avoiding hard problems | Trying a problem, and checking if u were right | Trying to solve hard problems, where u might get wrong, but explaining your reasoning step by step          |
+| Learning                 | Long, unfocused hours                      | Taking breaks when focus drops                 | Keeping your focus high, by actively thinking about what u'r learning & asking questions                    |
+| Consistency/Productivity | Forcing or waiting for motivation          | Break big stuff into smaller steps             | Figuring out what specifically creates resistance and changing your environment (to ease the process/start) |
