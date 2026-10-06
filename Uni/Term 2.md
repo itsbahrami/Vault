@@ -20,6 +20,7 @@
 		- Network
 			- Lab 109
 			- 14:00 - 15:30
+			- "Prev week's attendance"
 		- Web
 			- Lab 109
 			- 15:30 - 19:30
