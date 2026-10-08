@@ -1,0 +1,15 @@
+- 1405.07.05
+	- Late to school
+		- Cuz construction stuff was being done in the path...
+		- [ ] Check news, weather, and maps and plan then route
+		- [ ] Just in case, plan to arrive earlier
+	- Miss math class for lunch
+		- While I could have lunch after class
+		- [ ] Check and beware of timing
+	- Asked for phone num
+		- Gave website cuz I didn't like phone calls
+		- [ ] Give ur phone right away, nobody cares if u like it or not...
+- 1405.07.06
+	- Used general iron cup
+		- It was close... I was about to get sick...
+		- [ ] Bring a bottle/glass with u... even empty...
