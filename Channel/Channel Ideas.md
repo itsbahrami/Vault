@@ -98,3 +98,6 @@
 - GTD
 - Mindwtr
 - handy!
+- keyboard english google
+- keyboard japanese
+- 
