@@ -97,7 +97,7 @@
 - `!` & `_` folders
 - GTD
 - Mindwtr
-- handy!
+- handy! (done)
 - keyboard english google
 - keyboard japanese
 - 
