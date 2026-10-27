@@ -23,12 +23,10 @@
 - English
 	- Class 306
 	- 09:00 - 10:00 (1h)
-	- Delster + cake if 15' after teacher!!!
 
 - Network
 	- Lab 109
-	- 10:30 - 15:30
-	- "Prev week's attendance"
+	- 11:30 - 15:30
 
 - Web
 	- Lab 109
