@@ -5,9 +5,7 @@ I have seen many organizations decide the seniority of developers by giving more
 Different organizations might have different seniority titles but they mainly fall into three categories:
 
 - Junior Developer
-    
 - Mid Level Developer
-    
 - Senior Developer
 
 ## Junior Developer
@@ -111,4 +109,7 @@ All teams are made up of a mix of all these seniority roles. Being content with 
 
 The most important traits that you need to have in order to step up in your career are: not settling with mediocrity, having an open mindset, being humble, learning from your mistakes, working on the challenging problems and having an opportunity mindset rather than a complaining one.
 
-With that said, this post comes to an end. What are your thoughts on the levels of seniority of developers? Feel free to send improvements to this guide. Until next time, stay tuned!
+With that said, this post comes to an end. What are your thoughts on the levels of seniority of developers?
+
+Source: https://roadmap.sh/guides/levels-of-seniority
+By: Kamran Ahmed
