@@ -5,3 +5,12 @@ For the song at the provided link, output three code blocks only: (1) the offici
 ```
 For the song at the provided link, output three code blocks only: (1) the official kanji lyrics (no romaji or translation) with blank lines/stanza breaks preserved, and (2) a single HTML meta refresh tag that redirects in 0 seconds to the given link; no extra text.
 ```
+
+```
+For the song at the provided link, output exactly three code blocks only, in this order, with no extra text:
+
+(1) The official kanji lyrics (no romaji or translation) with blank lines/stanza breaks preserved.
+(2) A single HTML meta refresh tag that redirects in 0 seconds to the given link.
+(3) The snake_case romaji version of the song title only.
+```
+
