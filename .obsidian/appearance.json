@@ -1,5 +1,6 @@
 {
   "accentColor": "#1cc2ff",
   "textFontFamily": "Vazirmatn",
-  "interfaceFontFamily": "Vazirmatn"
+  "interfaceFontFamily": "Vazirmatn",
+  "showRibbon": true
 }

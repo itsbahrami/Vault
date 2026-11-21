@@ -12,16 +12,16 @@ Good question—and since your teacher asked for "everything you can find," ther
 
 ### 🔤 Start with the Root: ن ظ م (n-ẓ-m)
 
-"نظام" is not a Persian root word; it comes from the Arabic triliteral root **ن ظ م** (n-ẓ-m). The core meaning of this root is **"to string together," "to arrange in order," "to compose," "to organize."** The most concrete original image is **stringing pearls or beads onto a thread**—that is the physical act from which the abstract idea of "order" and "system" grows.
+The word "نظام" is not a Persian root word; it comes from the Arabic triliteral root **ن ظ م** (n-ẓ-m). The core meaning of this root is **"to string together," "to arrange in order," "to compose," "to organize."** The most concrete original image is **stringing pearls or beads onto a thread**—that is the physical act from which the abstract idea of "order" and "system" grows.
 
 From this root, several words branch out:
 
-- **نَظم** (naẓm): order, arrangement; also **poetry** (because poetry is "strung together" words).
-- **ناظم** (nāẓim): one who organizes, a regulator; historically a title for a governor or administrator.
-- **نظام** (niẓām): the *result* of organizing—a system, order, arrangement, method, or regime.
-- **انتظام** (intiẓām): being organized, regularity, discipline.
-- **تنظیم** (tanẓīm): organizing, arranging, regulating.
-- **منظم** (munazzam): organized, orderly.
+- word: **نَظم** (naẓm): order, arrangement; also **poetry** (because poetry is "strung together" words).
+- word: **ناظم** (nāẓim): one who organizes, a regulator; historically a title for a governor or administrator.
+- word: **نظام** (niẓām): the *result* of organizing—a system, order, arrangjement, method, or regime.
+- word: **انتظام** (intiẓām): being organized, regularity, discipline.
+- word: **تنظیم** (tanẓīm): organizing, arranging, regulating.
+- word: **منظم** (munazzam): organized, orderly.
 
 This root family is one of the clearest pieces of evidence you can present: **نظام belongs to a large, productive Arabic root family**, and that family is built around the image of **threading and arranging**.
 
